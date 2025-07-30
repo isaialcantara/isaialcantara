@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Isai Alcântara</h1>
-<h3 align="center">I'm a Software Engineer from Brazil with a deep passion for music and technology.</h3>
+<h3 align="center">I'm an experienced Software Engineer from Brazil with a deep passion for music and technology.</h3>
 
+- I have extensive backend engineering experience developing mission-critical systems with Elixir and have extensive domain expertise on financial fraud prevention.
 - I’m currently working on [my very own Toy Redis server](https://github.com/isaialcantara/toyredis)
 
-- I’m currently learning **Go and Python**
+- I’m currently learning **Go** and trying out **Python** as well.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
